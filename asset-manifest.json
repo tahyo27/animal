@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animal/static/css/main.4fa3e095.css",
+    "main.js": "/animal/static/js/main.d30ba74c.js",
+    "index.html": "/animal/index.html",
+    "main.4fa3e095.css.map": "/animal/static/css/main.4fa3e095.css.map",
+    "main.d30ba74c.js.map": "/animal/static/js/main.d30ba74c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa3e095.css",
+    "static/js/main.d30ba74c.js"
+  ]
+}
